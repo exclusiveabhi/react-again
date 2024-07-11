@@ -6,7 +6,7 @@ function App() {
 
   function handleCounter(e){
     setNumber(Number => Number + 1);
-    console.log(number);
+    // console.log(number);
   }
 
   return (
